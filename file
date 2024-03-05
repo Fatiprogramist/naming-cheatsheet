@@ -1,3 +1,7 @@
 fork 
 work1 
+<<<<<<< HEAD
 file new3 
+=======
+file new 
+>>>>>>> branch1
